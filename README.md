@@ -1,2 +1,3 @@
-# 100_days_of_python
-100 Days of Python
+# 100 Days of Python
+
+[Day 1](day_01)
